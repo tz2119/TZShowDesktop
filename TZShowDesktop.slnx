@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TZShowDesktop/TZShowDesktop.vcxproj" Id="12924e6a-36e6-45dc-b69e-f1dd9913a142" />
+</Solution>
